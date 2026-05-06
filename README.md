@@ -1,2 +1,2 @@
-# KechemCybil
-Hello! I am Cybil Kechem!
+# Hello my name is Cybil Kechem
+Motivated and detail oriented Computer Science student at the University of Maryland, Baltimore County (UMBC), with a completed Associate of Science in Computer Science from Montgomery College. Strong foundation in programming, data analysis, and software development, with experience in C++, Java, and operating systems. Actively involved in STEM clubs. Also passionate about music and singing, which strengthen creativity, discipline, and communication. Eager to apply both technical and creative skills to develop innovative software solutions and grow as a future software engineer.
